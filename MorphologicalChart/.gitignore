@@ -1,0 +1,12 @@
+# next.js build output
+.next
+
+# Environment variables
+.env.development
+.env.production
+
+# Dependencies
+node_modules/
+
+# Migrations
+migrations/
